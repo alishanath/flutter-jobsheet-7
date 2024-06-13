@@ -1,3 +1,3 @@
 # flutter-jobsheet-7
 
-tugas flutter jobsheet 7 mobile programming lanjut.
+tugas flutter jobsheet 7 (flutter container widget) mobile programming lanjut.
